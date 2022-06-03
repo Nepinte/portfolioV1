@@ -1,1 +1,1 @@
-# protfoliV. https://nepinte.github.io/portfoliov1/
+# protfoliV. https://nepinte.github.io/portfolioV1/
